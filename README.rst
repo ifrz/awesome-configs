@@ -6,7 +6,7 @@ Awesome WM Configs
 Radical + Blingbling + Lain + Vicious 
 --------------------------------
 
-:Author: Luke Bonham <dada [at] archlinux [dot] info>
+:Author: Iván Froiz <ifrz [at] gmail [dot] com>
 :Version: 0.1-git
 :License: GPL
 :Source: https://github.com/ifrz/awesome-configs
@@ -34,7 +34,7 @@ Gallery
 
 Dual Screen Awesome (ThemeZilla)
 
-.. image:: http://dotshare.it/public/images/uploads/655.png
+.. image:: https://lh5.googleusercontent.com/RETZ6LjUOhAxthNfc_wY-cDC5J5IwFZB3qe6Txl-DbBc4AgO5nxAP_nV_JgWk3cOQjVXQdCSuWRMxWFXuHWhI43lqeaQnd4JN7EH=w1000-h557-rw
 
 ToDo
 =======
