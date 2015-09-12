@@ -1,0 +1,16 @@
+GenericName=Advanced Text Editor
+StartupNotify=true
+HasTempFileOption=true
+Icon=kate
+Class=kate
+InitialPreference=9
+StartupType=Multi
+Type=Application
+ServiceName=org.kde.kate
+Name=Kate
+orig=kate
+Categories=Development;
+MimeType=text/plain;
+Exec=kate -b %U
+DocPath=kate/index.html
+Terminal=false

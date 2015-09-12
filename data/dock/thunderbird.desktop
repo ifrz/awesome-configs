@@ -1,0 +1,9 @@
+Type=Application
+Terminal=false
+Name=Mozilla Thunderbird
+Icon=/home/lepagee/.config/awesome/blind/arrow/Icon//thunderbird.png
+Categories=Network;
+Class=thunderbird
+Comment=Mail & News Reader
+MimeType=text/calendar;x-scheme-handler/mailto;
+Exec=/usr/bin/thunderbird %U

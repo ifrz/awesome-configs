@@ -1,0 +1,10 @@
+GenericName=Color Chooser
+Type=Application
+Terminal=false
+Name=KColorChooser
+DocPath=fundamentals/index.html#colors
+Icon=/home/lepagee/.config/awesome/blind/arrow/Icon//picker.png
+Categories=Tools;
+Exec=kcolorchooser
+Class=konversation
+StartupType=Multi
