@@ -6,7 +6,7 @@ Awesome WM Configs
 Radical + Blingbling + Lain + Vicious 
 --------------------------------
 
-:Author: Iván Froiz <ifrz [at] gmail [dot] com>
+:Author: Iván Froiz <ifrzmgz@gmail.com>
 :Version: 0.1-git
 :License: GPL
 :Source: https://github.com/ifrz/awesome-configs
@@ -20,6 +20,7 @@ Features
 ================
 
 - Widgets
+- Right click for apps menu, left click for favourites apps
 - Tags and dinamical tags
 - Advanced menus (radical)
 - Mount removable media (blingbling + udisks-glue) and partitions
@@ -34,7 +35,11 @@ Gallery
 
 Dual Screen Awesome (ThemeZilla)
 
-.. image:: https://lh5.googleusercontent.com/RETZ6LjUOhAxthNfc_wY-cDC5J5IwFZB3qe6Txl-DbBc4AgO5nxAP_nV_JgWk3cOQjVXQdCSuWRMxWFXuHWhI43lqeaQnd4JN7EH=w1000-h557-rw
+.. image:: https://raw.githubusercontent.com/ifrz/awesome-configs/master/desktop1.png
+
+.. image:: https://raw.githubusercontent.com/ifrz/awesome-configs/master/desktop2.png
+
+.. image:: https://raw.githubusercontent.com/ifrz/awesome-configs/master/desktop3.png
 
 ToDo
 =======
