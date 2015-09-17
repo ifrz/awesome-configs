@@ -44,7 +44,7 @@ Dual Screen Awesome (ThemeZilla)
 ToDo
 =======
 
-- Many features are static implementations and tou need to edit the code.
+- Many features are static implementations and you need to edit the code.
 - Volume notification with naughty.
 - Add and delete tag may not work propertly.
 - many corrections in the code ;)
